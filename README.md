@@ -1,8 +1,9 @@
 ## Simple note app writen to demonstrate basic feathers of node.js with using ws and yargs
 
-## This app allow you to manage your notes. 
+### This app allow you to manage your notes
 
-### How to use this note app.
+
+#### How to use this note app.
 Action |Terminal ccmmand  | Required data 
 ------------ | ------------- | -------------
 Add a new note |  add  | title, body
